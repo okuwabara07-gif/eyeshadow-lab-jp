@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eyeshadow-lab-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/eyeshadow-lab-jp/sitemap.xml
